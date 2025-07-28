@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CTFs%20Completed-4-blue?style=flat-square" alt="CTFs Completed">
+  <img src="https://img.shields.io/badge/CTFs%20Completed-1-blue?style=flat-square" alt="CTFs Completed">
   <img src="https://img.shields.io/badge/Platform-TryHackMe-red?style=flat-square" alt="TryHackMe">
 </p>
 
