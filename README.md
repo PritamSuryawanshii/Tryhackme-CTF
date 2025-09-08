@@ -30,11 +30,7 @@ Each room includes:
 
 | No. | Room Name                     | Difficulty | Link to Notes / Writeup |
 |-----|-------------------------------|------------|--------------------------|
-| 1   | [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt) | Easy       | [📄 View](./BasicPentesting/README.md) |
-| 2   | [Mr. Robot](https://tryhackme.com/room/mrrobot)             | Medium     | [📄 View](./MrRobot/README.md) |
-| 3   | [DogCat](https://tryhackme.com/room/dogcat)                 | Easy       | [📄 View](./DogCat/README.md) |
-| 4   | [Blog](https://tryhackme.com/room/blog)                     | Medium     | [📄 View](./Blog/README.md) |
-| 5   | [Insert More Rooms…]()                                      | —          | —                        |
+| 1   | [Daily Bugle](https://tryhackme.com/room/dailybugle) | Hard| [📄 View](./BasicPentesting/README.md) |
 
 > 🧩 Each folder contains screenshots, flag captures, and summarized steps.
 
