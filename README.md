@@ -30,7 +30,7 @@ Each room includes:
 
 | No. | Room Name                     | Difficulty | Link to Notes / Writeup |
 |-----|-------------------------------|------------|--------------------------|
-| 1   | [Daily Bugle](https://tryhackme.com/room/dailybugle) | Hard| [📄 View](./BasicPentesting/README.md) |
+| 1   | [Daily Bugle](https://tryhackme.com/room/dailybugle) | Hard| [📄 View](https://github.com/PritamSuryawanshii/Tryhackme-CTF/blob/main/tryhackme-hard/Daily-Bugle/Daily-Bugle.md) |
 
 > 🧩 Each folder contains screenshots, flag captures, and summarized steps.
 
