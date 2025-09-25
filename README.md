@@ -32,7 +32,7 @@ Each room includes:
 |-----|-------------------------------|------------|--------------------------|
 | 1   | [Daily Bugle](https://tryhackme.com/room/dailybugle) | Hard| [📄 View](https://github.com/PritamSuryawanshii/Tryhackme-CTF/blob/main/tryhackme-hard/Daily-Bugle/Daily-Bugle.md) |
 | 2   | [Jack](https://tryhackme.com/room/jack) | Hard| [📄 View](https://github.com/PritamSuryawanshii/Tryhackme-CTF/blob/main/tryhackme-hard/Jack/Jack.md) |
-| 3   | [Sequence](https://tryhackme.com/room/sequence) | Medium| [📄 View](https://github.com/PritamSuryawanshii/Tryhackme-CTF/blob/main/tryhackme-hard/Jack/Jack.md) |
+| 3   | [Sequence](https://tryhackme.com/room/sequence) | Medium| [📄 View](https://github.com/PritamSuryawanshii/Tryhackme-CTF/blob/main/tryhackme-medium/Sequence/Sequence.md) |
 
 > 🧩 Each folder contains screenshots, flag captures, and summarized steps.
 
